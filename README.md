@@ -12,5 +12,5 @@ No
 No. Because to test the message feature it involves many components interacting with each other.
 
 4. Would you use a unit test to test the “max message length” feature of a messaging application? Why or why not? For this question, assume the “max message length” feature prevents the user from typing more than 80 characters. \
-Yes. Because it does not involves interaction with other components and it is simple to just test the input and output.
+Yes. Because it does not involve interaction with other components and it is simple to just test the input and output.
 
